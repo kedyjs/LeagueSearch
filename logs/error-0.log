@@ -1,0 +1,149 @@
+2024-12-29 14:05:38: === RIOT API HATA DETAYI ===
+2024-12-29 14:05:38: Metod: getSummonerByName
+2024-12-29 14:05:38: Zaman: 2024-12-29T13:05:38.480Z
+2024-12-29 14:05:38: Status: 404
+2024-12-29 14:05:38: Headers: {
+2024-12-29 14:05:38:   "date": "Sun, 29 Dec 2024 13:05:38 GMT",
+2024-12-29 14:05:38:   "content-type": "application/json;charset=utf-8",
+2024-12-29 14:05:38:   "transfer-encoding": "chunked",
+2024-12-29 14:05:38:   "connection": "keep-alive",
+2024-12-29 14:05:38:   "access-control-allow-headers": "Content-Type",
+2024-12-29 14:05:38:   "access-control-allow-methods": "GET, POST, DELETE, PUT",
+2024-12-29 14:05:38:   "access-control-allow-origin": "*",
+2024-12-29 14:05:38:   "vary": "Accept-Encoding",
+2024-12-29 14:05:38:   "x-app-rate-limit": "20:1,100:120",
+2024-12-29 14:05:38:   "x-app-rate-limit-count": "1:1,1:120",
+2024-12-29 14:05:38:   "x-method-rate-limit": "1000:60",
+2024-12-29 14:05:38:   "x-method-rate-limit-count": "1:60",
+2024-12-29 14:05:38:   "x-riot-edge-trace-id": "05950c03-91e3-4f1e-8001-3d3c641b6147"
+2024-12-29 14:05:38: }
+2024-12-29 14:05:38: Data: {
+2024-12-29 14:05:38:   "status": {
+2024-12-29 14:05:38:     "status_code": 404,
+2024-12-29 14:05:38:     "message": "Data not found - No results found for player with riot id Adowzii#TR01"
+2024-12-29 14:05:38:   }
+2024-12-29 14:05:38: }
+2024-12-29 14:05:38: Embed Error: Error: Sihirdar bulunamadı. Lütfen kullanıcı adını kontrol edin.
+2024-12-29 14:05:38:     at RiotAPI.handleApiError (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:44:27)
+2024-12-29 14:05:38:     at RiotAPI.getSummonerByName (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:121:18)
+2024-12-29 14:05:38:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 14:05:38:     at async handleSummonerSearch (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:281:30)
+2024-12-29 14:05:38:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:230:21)
+2024-12-29 15:46:55: === RIOT API HATA DETAYI ===
+2024-12-29 15:46:55: Metod: getSummonerByName
+2024-12-29 15:46:55: Zaman: 2024-12-29T14:46:55.206Z
+2024-12-29 15:46:55: İstek URL: undefined
+2024-12-29 15:46:55: İstek Metodu: undefined
+2024-12-29 15:46:55: İstek Headers: undefined
+2024-12-29 15:46:55: Stack: Error: Lütfen Riot ID'nizi "kullanıcıAdı#tag" formatında girin. Örnek: OYUNCU#TR1
+2024-12-29 15:46:55:     at RiotAPI.formatRiotId (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:62:19)
+2024-12-29 15:46:55:     at RiotAPI.getSummonerByName (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:70:48)
+2024-12-29 15:46:55:     at handleSummonerSearch (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:281:44)
+2024-12-29 15:46:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 15:46:55:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:230:21)
+2024-12-29 15:46:55: ========================
+2024-12-29 15:46:55: Embed Error: Error: getSummonerByName işlemi sırasında bir hata oluştu. Detaylar için konsolu kontrol edin.
+2024-12-29 15:46:55:     at RiotAPI.handleApiError (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:55:15)
+2024-12-29 15:46:55:     at RiotAPI.getSummonerByName (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:121:18)
+2024-12-29 15:46:55:     at handleSummonerSearch (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:281:44)
+2024-12-29 15:46:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 15:46:55:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:230:21)
+2024-12-29 15:49:04: === RIOT API HATA DETAYI ===
+2024-12-29 15:49:04: Metod: getSummonerByName
+2024-12-29 15:49:04: Zaman: 2024-12-29T14:49:04.787Z
+2024-12-29 15:49:04: Status: 404
+2024-12-29 15:49:04: Headers: {
+2024-12-29 15:49:04:   "date": "Sun, 29 Dec 2024 14:49:04 GMT",
+2024-12-29 15:49:04:   "content-type": "application/json;charset=utf-8",
+2024-12-29 15:49:04:   "transfer-encoding": "chunked",
+2024-12-29 15:49:04:   "connection": "keep-alive",
+2024-12-29 15:49:04:   "access-control-allow-headers": "Content-Type",
+2024-12-29 15:49:04:   "access-control-allow-methods": "GET, POST, DELETE, PUT",
+2024-12-29 15:49:04:   "access-control-allow-origin": "*",
+2024-12-29 15:49:04:   "vary": "Accept-Encoding",
+2024-12-29 15:49:04:   "x-app-rate-limit": "20:1,100:120",
+2024-12-29 15:49:04:   "x-app-rate-limit-count": "1:1,1:120",
+2024-12-29 15:49:04:   "x-method-rate-limit": "1000:60",
+2024-12-29 15:49:04:   "x-method-rate-limit-count": "1:60",
+2024-12-29 15:49:04:   "x-riot-edge-trace-id": "3e608ab4-c42f-4620-b258-6b171283f4ed"
+2024-12-29 15:49:04: }
+2024-12-29 15:49:04: Data: {
+2024-12-29 15:49:04:   "status": {
+2024-12-29 15:49:04:     "status_code": 404,
+2024-12-29 15:49:04:     "message": "Data not found - No results found for player with riot id Adowzii#TR01"
+2024-12-29 15:49:04:   }
+2024-12-29 15:49:04: }
+2024-12-29 15:49:04: Embed Error: Error: Sihirdar bulunamadı. Lütfen kullanıcı adını kontrol edin.
+2024-12-29 15:49:04:     at RiotAPI.handleApiError (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:44:27)
+2024-12-29 15:49:04:     at RiotAPI.getSummonerByName (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:121:18)
+2024-12-29 15:49:04:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 15:49:04:     at async handleSummonerSearch (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:281:30)
+2024-12-29 15:49:04:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:230:21)
+2024-12-29 15:49:30: === RIOT API HATA DETAYI ===
+2024-12-29 15:49:30: Metod: getLiveGame
+2024-12-29 15:49:30: Zaman: 2024-12-29T14:49:30.516Z
+2024-12-29 15:49:30: Status: 404
+2024-12-29 15:49:30: Headers: {
+2024-12-29 15:49:30:   "date": "Sun, 29 Dec 2024 14:49:30 GMT",
+2024-12-29 15:49:30:   "content-type": "application/json;charset=utf-8",
+2024-12-29 15:49:30:   "transfer-encoding": "chunked",
+2024-12-29 15:49:30:   "connection": "keep-alive",
+2024-12-29 15:49:30:   "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+2024-12-29 15:49:30:   "expires": "0",
+2024-12-29 15:49:30:   "pragma": "no-cache",
+2024-12-29 15:49:30:   "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+2024-12-29 15:49:30:   "x-app-rate-limit": "20:1,100:120",
+2024-12-29 15:49:30:   "x-app-rate-limit-count": "2:1,4:120",
+2024-12-29 15:49:30:   "x-content-type-options": "nosniff",
+2024-12-29 15:49:30:   "x-frame-options": "DENY",
+2024-12-29 15:49:30:   "x-method-rate-limit": "20000:10,1200000:600",
+2024-12-29 15:49:30:   "x-method-rate-limit-count": "1:10,1:600",
+2024-12-29 15:49:30:   "x-riot-edge-trace-id": "97b4b46f-e463-40f2-b2ba-44eebb3acd2b",
+2024-12-29 15:49:30:   "x-xss-protection": "0"
+2024-12-29 15:49:30: }
+2024-12-29 15:49:30: Data: {
+2024-12-29 15:49:30:   "status": {
+2024-12-29 15:49:30:     "message": "Data not found - spectator game info isn't found",
+2024-12-29 15:49:30:     "status_code": 404
+2024-12-29 15:49:30:   }
+2024-12-29 15:49:30: }
+2024-12-29 15:49:30: Live Game Error: Error: Oyuncu şu anda aktif bir oyunda değil.
+2024-12-29 15:49:30:     at RiotAPI.handleApiError (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:42:27)
+2024-12-29 15:49:30:     at RiotAPI.getLiveGame (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:190:18)
+2024-12-29 15:49:30:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 15:49:30:     at async handleLiveGame (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:405:30)
+2024-12-29 15:49:30:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:225:21)
+2024-12-29 17:00:55: === RIOT API HATA DETAYI ===
+2024-12-29 17:00:55: Metod: getLiveGame
+2024-12-29 17:00:55: Zaman: 2024-12-29T16:00:55.744Z
+2024-12-29 17:00:55: Status: 404
+2024-12-29 17:00:55: Headers: {
+2024-12-29 17:00:55:   "date": "Sun, 29 Dec 2024 16:00:55 GMT",
+2024-12-29 17:00:55:   "content-type": "application/json;charset=utf-8",
+2024-12-29 17:00:55:   "transfer-encoding": "chunked",
+2024-12-29 17:00:55:   "connection": "keep-alive",
+2024-12-29 17:00:55:   "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+2024-12-29 17:00:55:   "expires": "0",
+2024-12-29 17:00:55:   "pragma": "no-cache",
+2024-12-29 17:00:55:   "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+2024-12-29 17:00:55:   "x-app-rate-limit": "20:1,100:120",
+2024-12-29 17:00:55:   "x-app-rate-limit-count": "2:1,4:120",
+2024-12-29 17:00:55:   "x-content-type-options": "nosniff",
+2024-12-29 17:00:55:   "x-frame-options": "DENY",
+2024-12-29 17:00:55:   "x-method-rate-limit": "20000:10,1200000:600",
+2024-12-29 17:00:55:   "x-method-rate-limit-count": "1:10,1:600",
+2024-12-29 17:00:55:   "x-riot-edge-trace-id": "e3ef7078-bee5-4b21-b7a1-06da6d24b898",
+2024-12-29 17:00:55:   "x-xss-protection": "0"
+2024-12-29 17:00:55: }
+2024-12-29 17:00:55: Data: {
+2024-12-29 17:00:55:   "status": {
+2024-12-29 17:00:55:     "message": "Data not found - spectator game info isn't found",
+2024-12-29 17:00:55:     "status_code": 404
+2024-12-29 17:00:55:   }
+2024-12-29 17:00:55: }
+2024-12-29 17:00:55: Live Game Error: Error: Oyuncu şu anda aktif bir oyunda değil.
+2024-12-29 17:00:55:     at RiotAPI.handleApiError (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:42:27)
+2024-12-29 17:00:55:     at RiotAPI.getLiveGame (C:\Users\Mert\Desktop\LeagueSearch\src\services\riotApi.js:190:18)
+2024-12-29 17:00:55:     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-29 17:00:55:     at async handleLiveGame (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:405:30)
+2024-12-29 17:00:55:     at async Object.execute (C:\Users\Mert\Desktop\LeagueSearch\src\events\interactionCreate.js:225:21)

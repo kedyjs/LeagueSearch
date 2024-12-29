@@ -1,0 +1,1260 @@
+2024-12-29 05:10:58: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 05:10:58: Bot 1 sunucuda aktif!
+2024-12-29 13:28:35: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 13:28:35: Bot 1 sunucuda aktif!
+2024-12-29 13:34:57: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 13:34:57: Bot 1 sunucuda aktif!
+2024-12-29 13:49:24: [Riot API] Sihirdar aranıyor: Shietr#shi
+2024-12-29 13:49:25: [Riot API] PUUID bulundu: 7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ
+2024-12-29 13:49:25: Summoner Response Data: {
+2024-12-29 13:49:25:   "id": "S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I",
+2024-12-29 13:49:25:   "accountId": "LbfKnyg7PoOl1wTiQq52lFnTzEp2mkUX2-INw7gQ-EOyVDjg8AzeSUyT",
+2024-12-29 13:49:25:   "puuid": "7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ",
+2024-12-29 13:49:25:   "profileIconId": 6051,
+2024-12-29 13:49:25:   "revisionDate": 1735473698216,
+2024-12-29 13:49:25:   "summonerLevel": 989
+2024-12-29 13:49:25: }
+2024-12-29 13:49:25: [Riot API] Sihirdar bulundu: Shietr
+2024-12-29 13:49:25: [Riot API] Canlı oyun aranıyor: 7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ
+2024-12-29 13:49:25: Live Game Response: {
+2024-12-29 13:49:25:   "gameId": 1579463680,
+2024-12-29 13:49:25:   "mapId": 11,
+2024-12-29 13:49:25:   "gameMode": "CLASSIC",
+2024-12-29 13:49:25:   "gameType": "MATCHED",
+2024-12-29 13:49:25:   "gameQueueConfigId": 440,
+2024-12-29 13:49:25:   "participants": [
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg",
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "spell1Id": 14,
+2024-12-29 13:49:25:       "spell2Id": 4,
+2024-12-29 13:49:25:       "championId": 711,
+2024-12-29 13:49:25:       "profileIconId": 6760,
+2024-12-29 13:49:25:       "riotId": "catra#001",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8112,
+2024-12-29 13:49:25:           8139,
+2024-12-29 13:49:25:           8138,
+2024-12-29 13:49:25:           8106,
+2024-12-29 13:49:25:           8226,
+2024-12-29 13:49:25:           8210,
+2024-12-29 13:49:25:           5005,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8100,
+2024-12-29 13:49:25:         "perkSubStyle": 8200
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ",
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "spell1Id": 14,
+2024-12-29 13:49:25:       "spell2Id": 4,
+2024-12-29 13:49:25:       "championId": 99,
+2024-12-29 13:49:25:       "profileIconId": 6051,
+2024-12-29 13:49:25:       "riotId": "Shietr#shi",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8229,
+2024-12-29 13:49:25:           8226,
+2024-12-29 13:49:25:           8210,
+2024-12-29 13:49:25:           8237,
+2024-12-29 13:49:25:           8126,
+2024-12-29 13:49:25:           8106,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8200,
+2024-12-29 13:49:25:         "perkSubStyle": 8100
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 21,
+2024-12-29 13:49:25:       "championId": 51,
+2024-12-29 13:49:25:       "profileIconId": 6680,
+2024-12-29 13:49:25:       "riotId": "BACIHOPLATAN46#AUTR",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8021,
+2024-12-29 13:49:25:           8009,
+2024-12-29 13:49:25:           9103,
+2024-12-29 13:49:25:           8014,
+2024-12-29 13:49:25:           8233,
+2024-12-29 13:49:25:           8236,
+2024-12-29 13:49:25:           5005,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8000,
+2024-12-29 13:49:25:         "perkSubStyle": 8200
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "NRgjIOPsXQEBo2kdvYybP7A369DoCNpK2_braQ_ygyAY6vKbHWgzmTlBa7lMVzXWWaWzAVqVeNQJow",
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "spell1Id": 6,
+2024-12-29 13:49:25:       "spell2Id": 12,
+2024-12-29 13:49:25:       "championId": 75,
+2024-12-29 13:49:25:       "profileIconId": 22,
+2024-12-29 13:49:25:       "riotId": "KollarımıVerin#000",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "4fLtzDRgK-yotdMHphcoPlb9Vlq6llrUJ1d7L3OhFKL2v3dlT304pYxI_g",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8021,
+2024-12-29 13:49:25:           9111,
+2024-12-29 13:49:25:           9105,
+2024-12-29 13:49:25:           8299,
+2024-12-29 13:49:25:           8444,
+2024-12-29 13:49:25:           8242,
+2024-12-29 13:49:25:           5007,
+2024-12-29 13:49:25:           5001,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8000,
+2024-12-29 13:49:25:         "perkSubStyle": 8400
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "dCZwxhBPaFrFjB67PgnkrEFoL__6dObcZQYNDkQ89CTkPLaJ2c7xmhezw7Ahw8R5RLUSo2clruV1PQ",
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "spell1Id": 11,
+2024-12-29 13:49:25:       "spell2Id": 4,
+2024-12-29 13:49:25:       "championId": 20,
+2024-12-29 13:49:25:       "profileIconId": 5982,
+2024-12-29 13:49:25:       "riotId": "Pioce#1234",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "6wELZMOStbw8aJNs33DTsgtsgioS2iqEDkdf92jCTz1znVg",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8128,
+2024-12-29 13:49:25:           8126,
+2024-12-29 13:49:25:           8138,
+2024-12-29 13:49:25:           8105,
+2024-12-29 13:49:25:           8234,
+2024-12-29 13:49:25:           8232,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8100,
+2024-12-29 13:49:25:         "perkSubStyle": 8200
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "jFpUmoWkV2KfvQdgeEdcQt9YU8FWzvjnyIL6YtWkBojz8-UgsRB0mlHutNMpk3FB5IRkpmTndahi5A",
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 14,
+2024-12-29 13:49:25:       "championId": 25,
+2024-12-29 13:49:25:       "profileIconId": 3377,
+2024-12-29 13:49:25:       "riotId": "QuiLeSK#TR1",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "PPt3EDrJ2eg52_1xAfM7ZU2SJbFe_jr7VOzwwDrJbwUaEM4",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8229,
+2024-12-29 13:49:25:           8226,
+2024-12-29 13:49:25:           8233,
+2024-12-29 13:49:25:           8237,
+2024-12-29 13:49:25:           8306,
+2024-12-29 13:49:25:           8345,
+2024-12-29 13:49:25:           5007,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5013
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8200,
+2024-12-29 13:49:25:         "perkSubStyle": 8300
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "jUSeg08L6e5Mn2YwuHqVK_lk5EtLoPR-v-C6ICckKWtLsAo-1bSqKVACL6MY2YLYV9SeZ0JMibuzpw",
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 7,
+2024-12-29 13:49:25:       "championId": 523,
+2024-12-29 13:49:25:       "profileIconId": 6472,
+2024-12-29 13:49:25:       "riotId": "THE FŁASH#TR1",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "wDOgNDQZ9_LHUYKDEvbZGk9K8qURIMmTxLkLmlgIkkGlRit8ZqYxohbJeA",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8021,
+2024-12-29 13:49:25:           9101,
+2024-12-29 13:49:25:           9103,
+2024-12-29 13:49:25:           8017,
+2024-12-29 13:49:25:           8233,
+2024-12-29 13:49:25:           8236,
+2024-12-29 13:49:25:           5005,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8000,
+2024-12-29 13:49:25:         "perkSubStyle": 8200
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "2D_X3sdFUVZQxi3FCRORwHayUbg7Wkgrjp-gsZnAZxDJOLi-MRA703dPFXe3DUbIxPGfqYt-WoYdnw",
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 14,
+2024-12-29 13:49:25:       "championId": 92,
+2024-12-29 13:49:25:       "profileIconId": 1232,
+2024-12-29 13:49:25:       "riotId": "coMPelliNgNan#TR1",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "p1ZTSi9ycnF3J5LnDLZ1rmqmGvLBU0eDND9YPkiVd7fYOQ",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8010,
+2024-12-29 13:49:25:           9111,
+2024-12-29 13:49:25:           9105,
+2024-12-29 13:49:25:           8014,
+2024-12-29 13:49:25:           8143,
+2024-12-29 13:49:25:           8106,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5011
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8000,
+2024-12-29 13:49:25:         "perkSubStyle": 8100
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "GQMWFK1SMKN6xVbDOSHzXcslwoOt7KmLY0_WUFDNUSrBwgyNrIy3dPv9Tc2-MriyBeysHAI5rPk7uA",
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 11,
+2024-12-29 13:49:25:       "championId": 60,
+2024-12-29 13:49:25:       "profileIconId": 3790,
+2024-12-29 13:49:25:       "riotId": "GarrenBaba456#TR1",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "EDfTVHlR6DBOKS5sYUeTVY-aEr32F8lndJ1LKF-eBRKY7tc",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8128,
+2024-12-29 13:49:25:           8126,
+2024-12-29 13:49:25:           8138,
+2024-12-29 13:49:25:           8105,
+2024-12-29 13:49:25:           8275,
+2024-12-29 13:49:25:           8232,
+2024-12-29 13:49:25:           5005,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8100,
+2024-12-29 13:49:25:         "perkSubStyle": 8200
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "puuid": "adJ37_4zeixVVwKGDPmyDn36Rh7ZNg_tABqpWuCXBuXLurPAbkEwzNUuMJ4m9pxPsIii8ow8t7ICnA",
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "spell1Id": 4,
+2024-12-29 13:49:25:       "spell2Id": 14,
+2024-12-29 13:49:25:       "championId": 157,
+2024-12-29 13:49:25:       "profileIconId": 5204,
+2024-12-29 13:49:25:       "riotId": "lol of federal#TR1",
+2024-12-29 13:49:25:       "bot": false,
+2024-12-29 13:49:25:       "summonerId": "XFvRie1rVCQMZGdwQ4X4SJ4w38YtZsuNCKOSdgAxjhgOaQi-eqhWeZtKRg",
+2024-12-29 13:49:25:       "gameCustomizationObjects": [],
+2024-12-29 13:49:25:       "perks": {
+2024-12-29 13:49:25:         "perkIds": [
+2024-12-29 13:49:25:           8008,
+2024-12-29 13:49:25:           9111,
+2024-12-29 13:49:25:           9104,
+2024-12-29 13:49:25:           8017,
+2024-12-29 13:49:25:           8451,
+2024-12-29 13:49:25:           8444,
+2024-12-29 13:49:25:           5005,
+2024-12-29 13:49:25:           5008,
+2024-12-29 13:49:25:           5001
+2024-12-29 13:49:25:         ],
+2024-12-29 13:49:25:         "perkStyle": 8000,
+2024-12-29 13:49:25:         "perkSubStyle": 8400
+2024-12-29 13:49:25:       }
+2024-12-29 13:49:25:     }
+2024-12-29 13:49:25:   ],
+2024-12-29 13:49:25:   "observers": {
+2024-12-29 13:49:25:     "encryptionKey": "eJn/MureXPU3F2b5CuD4qpIeXcuhTQ96"
+2024-12-29 13:49:25:   },
+2024-12-29 13:49:25:   "platformId": "TR1",
+2024-12-29 13:49:25:   "bannedChampions": [
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 64,
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "pickTurn": 1
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 10,
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "pickTurn": 2
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 360,
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "pickTurn": 3
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 350,
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "pickTurn": 4
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 238,
+2024-12-29 13:49:25:       "teamId": 100,
+2024-12-29 13:49:25:       "pickTurn": 5
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 50,
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "pickTurn": 6
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 895,
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "pickTurn": 7
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 7,
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "pickTurn": 8
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 19,
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "pickTurn": 9
+2024-12-29 13:49:25:     },
+2024-12-29 13:49:25:     {
+2024-12-29 13:49:25:       "championId": 33,
+2024-12-29 13:49:25:       "teamId": 200,
+2024-12-29 13:49:25:       "pickTurn": 10
+2024-12-29 13:49:25:     }
+2024-12-29 13:49:25:   ],
+2024-12-29 13:49:25:   "gameStartTime": 1735476458909,
+2024-12-29 13:49:25:   "gameLength": -44
+2024-12-29 13:49:25: }
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: 4fLtzDRgK-yotdMHphcoPlb9Vlq6llrUJ1d7L3OhFKL2v3dlT304pYxI_g
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: 6wELZMOStbw8aJNs33DTsgtsgioS2iqEDkdf92jCTz1znVg
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: PPt3EDrJ2eg52_1xAfM7ZU2SJbFe_jr7VOzwwDrJbwUaEM4
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: wDOgNDQZ9_LHUYKDEvbZGk9K8qURIMmTxLkLmlgIkkGlRit8ZqYxohbJeA
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: p1ZTSi9ycnF3J5LnDLZ1rmqmGvLBU0eDND9YPkiVd7fYOQ
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: EDfTVHlR6DBOKS5sYUeTVY-aEr32F8lndJ1LKF-eBRKY7tc
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alınıyor: XFvRie1rVCQMZGdwQ4X4SJ4w38YtZsuNCKOSdgAxjhgOaQi-eqhWeZtKRg
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 0 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:25: [Riot API] Sıralama bilgisi alındı: 1 kayıt
+2024-12-29 13:49:40: [Riot API] Sihirdar aranıyor: Shietr#shi
+2024-12-29 13:49:40: [Riot API] PUUID bulundu: 7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ
+2024-12-29 13:49:40: Summoner Response Data: {
+2024-12-29 13:49:40:   "id": "S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I",
+2024-12-29 13:49:40:   "accountId": "LbfKnyg7PoOl1wTiQq52lFnTzEp2mkUX2-INw7gQ-EOyVDjg8AzeSUyT",
+2024-12-29 13:49:40:   "puuid": "7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ",
+2024-12-29 13:49:40:   "profileIconId": 6051,
+2024-12-29 13:49:40:   "revisionDate": 1735473698216,
+2024-12-29 13:49:40:   "summonerLevel": 989
+2024-12-29 13:49:40: }
+2024-12-29 13:49:40: [Riot API] Sihirdar bulundu: Shietr
+2024-12-29 13:49:40: [Riot API] Canlı oyun aranıyor: 7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ
+2024-12-29 13:49:40: Live Game Response: {
+2024-12-29 13:49:40:   "gameId": 1579463680,
+2024-12-29 13:49:40:   "mapId": 11,
+2024-12-29 13:49:40:   "gameMode": "CLASSIC",
+2024-12-29 13:49:40:   "gameType": "MATCHED",
+2024-12-29 13:49:40:   "gameQueueConfigId": 440,
+2024-12-29 13:49:40:   "participants": [
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg",
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "spell1Id": 14,
+2024-12-29 13:49:40:       "spell2Id": 4,
+2024-12-29 13:49:40:       "championId": 711,
+2024-12-29 13:49:40:       "profileIconId": 6760,
+2024-12-29 13:49:40:       "riotId": "catra#001",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8112,
+2024-12-29 13:49:40:           8139,
+2024-12-29 13:49:40:           8138,
+2024-12-29 13:49:40:           8106,
+2024-12-29 13:49:40:           8226,
+2024-12-29 13:49:40:           8210,
+2024-12-29 13:49:40:           5005,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8100,
+2024-12-29 13:49:40:         "perkSubStyle": 8200
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "7ZF2MgWvbAJb-9sLhBdVviBrGYnGgB60J-xm5b461bL1fJnhvIi6qDJXTkR5uqhC759GZBpuJcTkdQ",
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "spell1Id": 14,
+2024-12-29 13:49:40:       "spell2Id": 4,
+2024-12-29 13:49:40:       "championId": 99,
+2024-12-29 13:49:40:       "profileIconId": 6051,
+2024-12-29 13:49:40:       "riotId": "Shietr#shi",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8229,
+2024-12-29 13:49:40:           8226,
+2024-12-29 13:49:40:           8210,
+2024-12-29 13:49:40:           8237,
+2024-12-29 13:49:40:           8126,
+2024-12-29 13:49:40:           8106,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8200,
+2024-12-29 13:49:40:         "perkSubStyle": 8100
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 21,
+2024-12-29 13:49:40:       "championId": 51,
+2024-12-29 13:49:40:       "profileIconId": 6680,
+2024-12-29 13:49:40:       "riotId": "BACIHOPLATAN46#AUTR",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8021,
+2024-12-29 13:49:40:           8009,
+2024-12-29 13:49:40:           9103,
+2024-12-29 13:49:40:           8014,
+2024-12-29 13:49:40:           8233,
+2024-12-29 13:49:40:           8236,
+2024-12-29 13:49:40:           5005,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8000,
+2024-12-29 13:49:40:         "perkSubStyle": 8200
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "NRgjIOPsXQEBo2kdvYybP7A369DoCNpK2_braQ_ygyAY6vKbHWgzmTlBa7lMVzXWWaWzAVqVeNQJow",
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "spell1Id": 6,
+2024-12-29 13:49:40:       "spell2Id": 12,
+2024-12-29 13:49:40:       "championId": 75,
+2024-12-29 13:49:40:       "profileIconId": 22,
+2024-12-29 13:49:40:       "riotId": "KollarımıVerin#000",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "4fLtzDRgK-yotdMHphcoPlb9Vlq6llrUJ1d7L3OhFKL2v3dlT304pYxI_g",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8021,
+2024-12-29 13:49:40:           9111,
+2024-12-29 13:49:40:           9105,
+2024-12-29 13:49:40:           8299,
+2024-12-29 13:49:40:           8444,
+2024-12-29 13:49:40:           8242,
+2024-12-29 13:49:40:           5007,
+2024-12-29 13:49:40:           5001,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8000,
+2024-12-29 13:49:40:         "perkSubStyle": 8400
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "dCZwxhBPaFrFjB67PgnkrEFoL__6dObcZQYNDkQ89CTkPLaJ2c7xmhezw7Ahw8R5RLUSo2clruV1PQ",
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "spell1Id": 11,
+2024-12-29 13:49:40:       "spell2Id": 4,
+2024-12-29 13:49:40:       "championId": 20,
+2024-12-29 13:49:40:       "profileIconId": 5982,
+2024-12-29 13:49:40:       "riotId": "Pioce#1234",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "6wELZMOStbw8aJNs33DTsgtsgioS2iqEDkdf92jCTz1znVg",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8128,
+2024-12-29 13:49:40:           8126,
+2024-12-29 13:49:40:           8138,
+2024-12-29 13:49:40:           8105,
+2024-12-29 13:49:40:           8234,
+2024-12-29 13:49:40:           8232,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8100,
+2024-12-29 13:49:40:         "perkSubStyle": 8200
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "jFpUmoWkV2KfvQdgeEdcQt9YU8FWzvjnyIL6YtWkBojz8-UgsRB0mlHutNMpk3FB5IRkpmTndahi5A",
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 14,
+2024-12-29 13:49:40:       "championId": 25,
+2024-12-29 13:49:40:       "profileIconId": 3377,
+2024-12-29 13:49:40:       "riotId": "QuiLeSK#TR1",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "PPt3EDrJ2eg52_1xAfM7ZU2SJbFe_jr7VOzwwDrJbwUaEM4",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8229,
+2024-12-29 13:49:40:           8226,
+2024-12-29 13:49:40:           8233,
+2024-12-29 13:49:40:           8237,
+2024-12-29 13:49:40:           8306,
+2024-12-29 13:49:40:           8345,
+2024-12-29 13:49:40:           5007,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5013
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8200,
+2024-12-29 13:49:40:         "perkSubStyle": 8300
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "jUSeg08L6e5Mn2YwuHqVK_lk5EtLoPR-v-C6ICckKWtLsAo-1bSqKVACL6MY2YLYV9SeZ0JMibuzpw",
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 7,
+2024-12-29 13:49:40:       "championId": 523,
+2024-12-29 13:49:40:       "profileIconId": 6472,
+2024-12-29 13:49:40:       "riotId": "THE FŁASH#TR1",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "wDOgNDQZ9_LHUYKDEvbZGk9K8qURIMmTxLkLmlgIkkGlRit8ZqYxohbJeA",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8021,
+2024-12-29 13:49:40:           9101,
+2024-12-29 13:49:40:           9103,
+2024-12-29 13:49:40:           8017,
+2024-12-29 13:49:40:           8233,
+2024-12-29 13:49:40:           8236,
+2024-12-29 13:49:40:           5005,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8000,
+2024-12-29 13:49:40:         "perkSubStyle": 8200
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "2D_X3sdFUVZQxi3FCRORwHayUbg7Wkgrjp-gsZnAZxDJOLi-MRA703dPFXe3DUbIxPGfqYt-WoYdnw",
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 14,
+2024-12-29 13:49:40:       "championId": 92,
+2024-12-29 13:49:40:       "profileIconId": 1232,
+2024-12-29 13:49:40:       "riotId": "coMPelliNgNan#TR1",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "p1ZTSi9ycnF3J5LnDLZ1rmqmGvLBU0eDND9YPkiVd7fYOQ",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8010,
+2024-12-29 13:49:40:           9111,
+2024-12-29 13:49:40:           9105,
+2024-12-29 13:49:40:           8014,
+2024-12-29 13:49:40:           8143,
+2024-12-29 13:49:40:           8106,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5011
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8000,
+2024-12-29 13:49:40:         "perkSubStyle": 8100
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "GQMWFK1SMKN6xVbDOSHzXcslwoOt7KmLY0_WUFDNUSrBwgyNrIy3dPv9Tc2-MriyBeysHAI5rPk7uA",
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 11,
+2024-12-29 13:49:40:       "championId": 60,
+2024-12-29 13:49:40:       "profileIconId": 3790,
+2024-12-29 13:49:40:       "riotId": "GarrenBaba456#TR1",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "EDfTVHlR6DBOKS5sYUeTVY-aEr32F8lndJ1LKF-eBRKY7tc",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8128,
+2024-12-29 13:49:40:           8126,
+2024-12-29 13:49:40:           8138,
+2024-12-29 13:49:40:           8105,
+2024-12-29 13:49:40:           8275,
+2024-12-29 13:49:40:           8232,
+2024-12-29 13:49:40:           5005,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8100,
+2024-12-29 13:49:40:         "perkSubStyle": 8200
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "puuid": "adJ37_4zeixVVwKGDPmyDn36Rh7ZNg_tABqpWuCXBuXLurPAbkEwzNUuMJ4m9pxPsIii8ow8t7ICnA",
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "spell1Id": 4,
+2024-12-29 13:49:40:       "spell2Id": 14,
+2024-12-29 13:49:40:       "championId": 157,
+2024-12-29 13:49:40:       "profileIconId": 5204,
+2024-12-29 13:49:40:       "riotId": "lol of federal#TR1",
+2024-12-29 13:49:40:       "bot": false,
+2024-12-29 13:49:40:       "summonerId": "XFvRie1rVCQMZGdwQ4X4SJ4w38YtZsuNCKOSdgAxjhgOaQi-eqhWeZtKRg",
+2024-12-29 13:49:40:       "gameCustomizationObjects": [],
+2024-12-29 13:49:40:       "perks": {
+2024-12-29 13:49:40:         "perkIds": [
+2024-12-29 13:49:40:           8008,
+2024-12-29 13:49:40:           9111,
+2024-12-29 13:49:40:           9104,
+2024-12-29 13:49:40:           8017,
+2024-12-29 13:49:40:           8451,
+2024-12-29 13:49:40:           8444,
+2024-12-29 13:49:40:           5005,
+2024-12-29 13:49:40:           5008,
+2024-12-29 13:49:40:           5001
+2024-12-29 13:49:40:         ],
+2024-12-29 13:49:40:         "perkStyle": 8000,
+2024-12-29 13:49:40:         "perkSubStyle": 8400
+2024-12-29 13:49:40:       }
+2024-12-29 13:49:40:     }
+2024-12-29 13:49:40:   ],
+2024-12-29 13:49:40:   "observers": {
+2024-12-29 13:49:40:     "encryptionKey": "eJn/MureXPU3F2b5CuD4qpIeXcuhTQ96"
+2024-12-29 13:49:40:   },
+2024-12-29 13:49:40:   "platformId": "TR1",
+2024-12-29 13:49:40:   "bannedChampions": [
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 64,
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "pickTurn": 1
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 10,
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "pickTurn": 2
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 360,
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "pickTurn": 3
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 350,
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "pickTurn": 4
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 238,
+2024-12-29 13:49:40:       "teamId": 100,
+2024-12-29 13:49:40:       "pickTurn": 5
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 50,
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "pickTurn": 6
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 895,
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "pickTurn": 7
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 7,
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "pickTurn": 8
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 19,
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "pickTurn": 9
+2024-12-29 13:49:40:     },
+2024-12-29 13:49:40:     {
+2024-12-29 13:49:40:       "championId": 33,
+2024-12-29 13:49:40:       "teamId": 200,
+2024-12-29 13:49:40:       "pickTurn": 10
+2024-12-29 13:49:40:     }
+2024-12-29 13:49:40:   ],
+2024-12-29 13:49:40:   "gameStartTime": 1735476458909,
+2024-12-29 13:49:40:   "gameLength": -29
+2024-12-29 13:49:40: }
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: S4coT9PzWeI_wJ4fPKYbtyd7T7O_LqGY7UvfuOSxvzWiU9I
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: 4fLtzDRgK-yotdMHphcoPlb9Vlq6llrUJ1d7L3OhFKL2v3dlT304pYxI_g
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: 6wELZMOStbw8aJNs33DTsgtsgioS2iqEDkdf92jCTz1znVg
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: PPt3EDrJ2eg52_1xAfM7ZU2SJbFe_jr7VOzwwDrJbwUaEM4
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: wDOgNDQZ9_LHUYKDEvbZGk9K8qURIMmTxLkLmlgIkkGlRit8ZqYxohbJeA
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: p1ZTSi9ycnF3J5LnDLZ1rmqmGvLBU0eDND9YPkiVd7fYOQ
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: EDfTVHlR6DBOKS5sYUeTVY-aEr32F8lndJ1LKF-eBRKY7tc
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alınıyor: XFvRie1rVCQMZGdwQ4X4SJ4w38YtZsuNCKOSdgAxjhgOaQi-eqhWeZtKRg
+2024-12-29 13:49:40: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 1 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 13:49:41: [Riot API] Sıralama bilgisi alındı: 0 kayıt
+2024-12-29 14:05:37: [Riot API] Sihirdar aranıyor: Adowzii#TR01
+2024-12-29 15:46:55: [Riot API] Sihirdar aranıyor: BACIHOPLATAN46 3AUTR
+2024-12-29 15:47:03: [Riot API] Sihirdar aranıyor: BACIHOPLATAN46#AUTR
+2024-12-29 15:47:03: [Riot API] PUUID bulundu: mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A
+2024-12-29 15:47:04: Summoner Response Data: {
+2024-12-29 15:47:04:   "id": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 15:47:04:   "accountId": "coTAmltU3Ky_bTSzKklwgDtABkP64NRbNG9dQgaXbIC5KiJDMGNzw-Dp",
+2024-12-29 15:47:04:   "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 15:47:04:   "profileIconId": 6680,
+2024-12-29 15:47:04:   "revisionDate": 1735483551048,
+2024-12-29 15:47:04:   "summonerLevel": 46
+2024-12-29 15:47:04: }
+2024-12-29 15:47:04: [Riot API] Sihirdar bulundu: BACIHOPLATAN46
+2024-12-29 15:47:04: [Riot API] Sıralama bilgisi alınıyor: PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg
+2024-12-29 15:47:04: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 15:49:04: [Riot API] Sihirdar aranıyor: Adowzii#TR01
+2024-12-29 15:49:14: [Riot API] Sihirdar aranıyor: Adowwz#TR01
+2024-12-29 15:49:14: [Riot API] PUUID bulundu: eNar0_bUpeKyLcXl-Di6FGjP6EHYwK5CX_Ie1uUI35qSgZIX-U9ha-pQflTRbG2qKfMloyUHC4d4Cg
+2024-12-29 15:49:14: Summoner Response Data: {
+2024-12-29 15:49:14:   "id": "qeAlVYFzTqyT8gypFJqQK341a57Doc2yyj8G0SY9cLa2opXqWIRKfaDY8g",
+2024-12-29 15:49:14:   "accountId": "yPTFMeRyzPzpCu0ivMmD6DiMlANuAMpoIMsblThD6jos-VAxnd8Ckt5S",
+2024-12-29 15:49:14:   "puuid": "eNar0_bUpeKyLcXl-Di6FGjP6EHYwK5CX_Ie1uUI35qSgZIX-U9ha-pQflTRbG2qKfMloyUHC4d4Cg",
+2024-12-29 15:49:14:   "profileIconId": 28,
+2024-12-29 15:49:14:   "revisionDate": 1734465338000,
+2024-12-29 15:49:14:   "summonerLevel": 11
+2024-12-29 15:49:14: }
+2024-12-29 15:49:14: [Riot API] Sihirdar bulundu: Adowwz
+2024-12-29 15:49:14: [Riot API] Sıralama bilgisi alınıyor: qeAlVYFzTqyT8gypFJqQK341a57Doc2yyj8G0SY9cLa2opXqWIRKfaDY8g
+2024-12-29 15:49:14: [Riot API] Sıralama bilgisi alındı: 0 kayıt
+2024-12-29 15:49:30: [Riot API] Sihirdar aranıyor: Adowwz#TR01
+2024-12-29 15:49:30: [Riot API] PUUID bulundu: eNar0_bUpeKyLcXl-Di6FGjP6EHYwK5CX_Ie1uUI35qSgZIX-U9ha-pQflTRbG2qKfMloyUHC4d4Cg
+2024-12-29 15:49:30: Summoner Response Data: {
+2024-12-29 15:49:30:   "id": "qeAlVYFzTqyT8gypFJqQK341a57Doc2yyj8G0SY9cLa2opXqWIRKfaDY8g",
+2024-12-29 15:49:30:   "accountId": "yPTFMeRyzPzpCu0ivMmD6DiMlANuAMpoIMsblThD6jos-VAxnd8Ckt5S",
+2024-12-29 15:49:30:   "puuid": "eNar0_bUpeKyLcXl-Di6FGjP6EHYwK5CX_Ie1uUI35qSgZIX-U9ha-pQflTRbG2qKfMloyUHC4d4Cg",
+2024-12-29 15:49:30:   "profileIconId": 28,
+2024-12-29 15:49:30:   "revisionDate": 1734465338000,
+2024-12-29 15:49:30:   "summonerLevel": 11
+2024-12-29 15:49:30: }
+2024-12-29 15:49:30: [Riot API] Sihirdar bulundu: Adowwz
+2024-12-29 15:49:30: [Riot API] Canlı oyun aranıyor: eNar0_bUpeKyLcXl-Di6FGjP6EHYwK5CX_Ie1uUI35qSgZIX-U9ha-pQflTRbG2qKfMloyUHC4d4Cg
+2024-12-29 16:24:15: [Riot API] Sihirdar aranıyor: catra#001
+2024-12-29 16:24:15: [Riot API] PUUID bulundu: V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg
+2024-12-29 16:24:16: Summoner Response Data: {
+2024-12-29 16:24:16:   "id": "GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw",
+2024-12-29 16:24:16:   "accountId": "v9LglZh6XJ82wHdCkiKc6AaD1UA-Wfj9WvvjqU4k2l60Bv-BgWk9Ee0M",
+2024-12-29 16:24:16:   "puuid": "V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg",
+2024-12-29 16:24:16:   "profileIconId": 6760,
+2024-12-29 16:24:16:   "revisionDate": 1735485617858,
+2024-12-29 16:24:16:   "summonerLevel": 124
+2024-12-29 16:24:16: }
+2024-12-29 16:24:16: [Riot API] Sihirdar bulundu: catra
+2024-12-29 16:24:16: [Riot API] Sıralama bilgisi alınıyor: GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw
+2024-12-29 16:24:16: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 16:25:00: [Riot API] Sihirdar aranıyor: BACIHOPLATAN46#AUTR
+2024-12-29 16:25:01: [Riot API] PUUID bulundu: mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A
+2024-12-29 16:25:01: Summoner Response Data: {
+2024-12-29 16:25:01:   "id": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 16:25:01:   "accountId": "coTAmltU3Ky_bTSzKklwgDtABkP64NRbNG9dQgaXbIC5KiJDMGNzw-Dp",
+2024-12-29 16:25:01:   "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 16:25:01:   "profileIconId": 6680,
+2024-12-29 16:25:01:   "revisionDate": 1735485617858,
+2024-12-29 16:25:01:   "summonerLevel": 46
+2024-12-29 16:25:01: }
+2024-12-29 16:25:01: [Riot API] Sihirdar bulundu: BACIHOPLATAN46
+2024-12-29 16:25:01: [Riot API] Sıralama bilgisi alınıyor: PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg
+2024-12-29 16:25:01: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 16:36:39: [Riot API] Sihirdar aranıyor: dont be random#VAC
+2024-12-29 16:36:40: [Riot API] PUUID bulundu: ypnG5zCCe-B2xQ3s9I0LOQA_Kp-KJayTPKRh7A4RbMTMwV0xDskFJO0MuzdfnFez3B1lz4BWcXin_Q
+2024-12-29 16:36:40: Summoner Response Data: {
+2024-12-29 16:36:40:   "id": "zr3vSx5GyAvBxFD_8vrkSpXnQyf6N1XRCJlTd8lM1VhDBA",
+2024-12-29 16:36:40:   "accountId": "8RSrbHcaggopu1px5B3MihN1IoL_Wo-WTK8-nS__E4foCoM",
+2024-12-29 16:36:40:   "puuid": "ypnG5zCCe-B2xQ3s9I0LOQA_Kp-KJayTPKRh7A4RbMTMwV0xDskFJO0MuzdfnFez3B1lz4BWcXin_Q",
+2024-12-29 16:36:40:   "profileIconId": 3460,
+2024-12-29 16:36:40:   "revisionDate": 1735439157240,
+2024-12-29 16:36:40:   "summonerLevel": 253
+2024-12-29 16:36:40: }
+2024-12-29 16:36:40: [Riot API] Sihirdar bulundu: dont be random
+2024-12-29 16:36:40: [Riot API] Sıralama bilgisi alınıyor: zr3vSx5GyAvBxFD_8vrkSpXnQyf6N1XRCJlTd8lM1VhDBA
+2024-12-29 16:36:40: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 17:00:31: [Riot API] Sihirdar aranıyor: kuran saticisi#meal
+2024-12-29 17:00:32: [Riot API] PUUID bulundu: MEJiwLE5jvsIFPu3UaYwc74r6XcnChip-1MPkJbJFO-78-xa22iN-S2I3E4fpYzEshQ82tuwsJvMjg
+2024-12-29 17:00:32: Summoner Response Data: {
+2024-12-29 17:00:32:   "id": "RBDFFQUYLbyZr-ollSBo7Bs6_EZIwSgJ42Hz0RR3ee3g3zfzvmELwbKs3w",
+2024-12-29 17:00:32:   "accountId": "BgvuLhYM4Z1VUEWGk66bry6HJJ-TGbJQYRqkgLg0v3H7-oV9xvBsYfPm",
+2024-12-29 17:00:32:   "puuid": "MEJiwLE5jvsIFPu3UaYwc74r6XcnChip-1MPkJbJFO-78-xa22iN-S2I3E4fpYzEshQ82tuwsJvMjg",
+2024-12-29 17:00:32:   "profileIconId": 29,
+2024-12-29 17:00:32:   "revisionDate": 1735467879798,
+2024-12-29 17:00:32:   "summonerLevel": 232
+2024-12-29 17:00:32: }
+2024-12-29 17:00:32: [Riot API] Sihirdar bulundu: kuran saticisi
+2024-12-29 17:00:32: [Riot API] Sıralama bilgisi alınıyor: RBDFFQUYLbyZr-ollSBo7Bs6_EZIwSgJ42Hz0RR3ee3g3zfzvmELwbKs3w
+2024-12-29 17:00:32: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 17:00:55: [Riot API] Sihirdar aranıyor: kuran saticisi#meal
+2024-12-29 17:00:55: [Riot API] PUUID bulundu: MEJiwLE5jvsIFPu3UaYwc74r6XcnChip-1MPkJbJFO-78-xa22iN-S2I3E4fpYzEshQ82tuwsJvMjg
+2024-12-29 17:00:55: Summoner Response Data: {
+2024-12-29 17:00:55:   "id": "RBDFFQUYLbyZr-ollSBo7Bs6_EZIwSgJ42Hz0RR3ee3g3zfzvmELwbKs3w",
+2024-12-29 17:00:55:   "accountId": "BgvuLhYM4Z1VUEWGk66bry6HJJ-TGbJQYRqkgLg0v3H7-oV9xvBsYfPm",
+2024-12-29 17:00:55:   "puuid": "MEJiwLE5jvsIFPu3UaYwc74r6XcnChip-1MPkJbJFO-78-xa22iN-S2I3E4fpYzEshQ82tuwsJvMjg",
+2024-12-29 17:00:55:   "profileIconId": 29,
+2024-12-29 17:00:55:   "revisionDate": 1735467879798,
+2024-12-29 17:00:55:   "summonerLevel": 232
+2024-12-29 17:00:55: }
+2024-12-29 17:00:55: [Riot API] Sihirdar bulundu: kuran saticisi
+2024-12-29 17:00:55: [Riot API] Canlı oyun aranıyor: MEJiwLE5jvsIFPu3UaYwc74r6XcnChip-1MPkJbJFO-78-xa22iN-S2I3E4fpYzEshQ82tuwsJvMjg
+2024-12-29 17:13:41: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:13:41: Bot 1 sunucuda aktif!
+2024-12-29 17:18:13: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:18:13: Bot 1 sunucuda aktif!
+2024-12-29 17:18:30: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:18:30: Bot 1 sunucuda aktif!
+2024-12-29 17:18:47: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:18:47: Bot 1 sunucuda aktif!
+2024-12-29 17:19:28: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:19:28: Bot 1 sunucuda aktif!
+2024-12-29 17:19:49: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:19:49: Bot 1 sunucuda aktif!
+2024-12-29 17:21:08: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 17:21:08: Bot 1 sunucuda aktif!
+2024-12-29 18:22:25: [Riot API] Sihirdar aranıyor: BFK Crtızz#TR1
+2024-12-29 18:22:25: [Riot API] PUUID bulundu: 9uP8rte76vKY_R5CpkbQk5D6rnrIiDrKElyGneuI09s2KqDZiRaDLNNy_lqV_hv8IMc_KNkh1QTchw
+2024-12-29 18:22:25: Summoner Response Data: {
+2024-12-29 18:22:25:   "id": "D2gx5KVls_MT7C-fay5KP28XHj9sLhM8C3NGv1ZAekLPdQ",
+2024-12-29 18:22:25:   "accountId": "frpvKNBfipgw9Jpe9XESG14F8u_iZUbAMxJeZTocNmPvSLQ",
+2024-12-29 18:22:25:   "puuid": "9uP8rte76vKY_R5CpkbQk5D6rnrIiDrKElyGneuI09s2KqDZiRaDLNNy_lqV_hv8IMc_KNkh1QTchw",
+2024-12-29 18:22:25:   "profileIconId": 4794,
+2024-12-29 18:22:25:   "revisionDate": 1735470238016,
+2024-12-29 18:22:25:   "summonerLevel": 401
+2024-12-29 18:22:25: }
+2024-12-29 18:22:25: [Riot API] Sihirdar bulundu: BFK Crtızz
+2024-12-29 18:22:25: [Riot API] Sıralama bilgisi alınıyor: D2gx5KVls_MT7C-fay5KP28XHj9sLhM8C3NGv1ZAekLPdQ
+2024-12-29 18:22:25: [Riot API] Sıralama bilgisi alındı: 1 kayıt
+2024-12-29 18:27:51: VIP Tracker#4912 olarak giriş yapıldı!
+2024-12-29 18:27:51: Bot 1 sunucuda aktif!
+2024-12-29 20:49:52: [Riot API] Sihirdar aranıyor: BACIHOPLATAN46#AUTR
+2024-12-29 20:49:52: [Riot API] PUUID bulundu: mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A
+2024-12-29 20:49:52: Summoner Response Data: {
+2024-12-29 20:49:52:   "id": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 20:49:52:   "accountId": "coTAmltU3Ky_bTSzKklwgDtABkP64NRbNG9dQgaXbIC5KiJDMGNzw-Dp",
+2024-12-29 20:49:52:   "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 20:49:52:   "profileIconId": 6680,
+2024-12-29 20:49:52:   "revisionDate": 1735501406287,
+2024-12-29 20:49:52:   "summonerLevel": 46
+2024-12-29 20:49:52: }
+2024-12-29 20:49:52: [Riot API] Sihirdar bulundu: BACIHOPLATAN46
+2024-12-29 20:49:52: [Riot API] Canlı oyun aranıyor: mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A
+2024-12-29 20:49:52: Live Game Response: {
+2024-12-29 20:49:52:   "gameId": 1579608457,
+2024-12-29 20:49:52:   "mapId": 11,
+2024-12-29 20:49:52:   "gameMode": "CLASSIC",
+2024-12-29 20:49:52:   "gameType": "MATCHED",
+2024-12-29 20:49:52:   "gameQueueConfigId": 440,
+2024-12-29 20:49:52:   "participants": [
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "0meSAQTQ8DQJ00NB76lXu65FAJtGAsyt6KyuzeBCBnZugBHsvh1hLYqNbG2zaRnTUn17gLxzRzjD_g",
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "spell1Id": 12,
+2024-12-29 20:49:52:       "spell2Id": 4,
+2024-12-29 20:49:52:       "championId": 82,
+2024-12-29 20:49:52:       "profileIconId": 1151,
+2024-12-29 20:49:52:       "riotId": "hüdapar militanı#1001",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "umqI-_piC-YXiFNR0JEBs_kROqoYaANtaG_iJoy7sMaIOBg",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8010,
+2024-12-29 20:49:52:           9111,
+2024-12-29 20:49:52:           9105,
+2024-12-29 20:49:52:           8299,
+2024-12-29 20:49:52:           8236,
+2024-12-29 20:49:52:           8210,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8000,
+2024-12-29 20:49:52:         "perkSubStyle": 8200
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "FOM46lwitFQCdQD5MI-4WSTvgtrpXUkQOYPEyu5BVHXrTJS9ELtMgyRubeBSKgPe0H5vW9dxUAfhHw",
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "spell1Id": 11,
+2024-12-29 20:49:52:       "spell2Id": 14,
+2024-12-29 20:49:52:       "championId": 35,
+2024-12-29 20:49:52:       "profileIconId": 608,
+2024-12-29 20:49:52:       "riotId": "Bienqu#TR1",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "mnewKkDId2nlTJQ3RgllUPu7GA2ZyKgzSsmInZL-pTP4qQ",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           9923,
+2024-12-29 20:49:52:           8143,
+2024-12-29 20:49:52:           8138,
+2024-12-29 20:49:52:           8105,
+2024-12-29 20:49:52:           8014,
+2024-12-29 20:49:52:           9104,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8100,
+2024-12-29 20:49:52:         "perkSubStyle": 8000
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "SxYSf5zyDZv65L9TwmEsbcoGnJLaHjaugu-mj7IbB0ClwVICpPMPDvwz2oyquuxkn6wzOt4ixxD4Kg",
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 12,
+2024-12-29 20:49:52:       "championId": 13,
+2024-12-29 20:49:52:       "profileIconId": 693,
+2024-12-29 20:49:52:       "riotId": "Teemor#1327",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "CUyS4wTzk0BLQjlFhtaRoQcQbLt5lPkBtGgEnqWP4natOA",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8230,
+2024-12-29 20:49:52:           8226,
+2024-12-29 20:49:52:           8210,
+2024-12-29 20:49:52:           8236,
+2024-12-29 20:49:52:           9105,
+2024-12-29 20:49:52:           8017,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8200,
+2024-12-29 20:49:52:         "perkSubStyle": 8000
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "1P4d955pZeA24sFfJaNaR7Rs06-AYGeJ7AMDzYsbxKdDNK761XtXqXfkhdYd8KNgRctWGYXqPIsOZw",
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 7,
+2024-12-29 20:49:52:       "championId": 235,
+2024-12-29 20:49:52:       "profileIconId": 5410,
+2024-12-29 20:49:52:       "riotId": "Phobos#3458",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "3VnFArk9JepMfs4jAQu3SWRnDvvlBGfahf9mDP6vLV3sXbs",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8437,
+2024-12-29 20:49:52:           8463,
+2024-12-29 20:49:52:           8473,
+2024-12-29 20:49:52:           8453,
+2024-12-29 20:49:52:           9104,
+2024-12-29 20:49:52:           8009,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5011
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8400,
+2024-12-29 20:49:52:         "perkSubStyle": 8000
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "a1zM4Lz_DTzNU2nxbjdLJHXHC_7I4364MrtwRyigh-oJpT4U2uErCazYjIk5r8BhC-9TpNJFD_mitQ",
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 1,
+2024-12-29 20:49:52:       "championId": 67,
+2024-12-29 20:49:52:       "profileIconId": 794,
+2024-12-29 20:49:52:       "riotId": "Jocose#GDO",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "3ABEk_y6roZoq-pJE1LFrD78nw0KrAO1-hj3qHug5N9BmQ",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8005,
+2024-12-29 20:49:52:           9111,
+2024-12-29 20:49:52:           9104,
+2024-12-29 20:49:52:           8014,
+2024-12-29 20:49:52:           8429,
+2024-12-29 20:49:52:           8451,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5011
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8000,
+2024-12-29 20:49:52:         "perkSubStyle": 8400
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "PZLA4f8p5qchQeAHmUUv6E1p0_fRPNAfvcpvhK1cEh2MGZtGtC8enh_Pw2w2CKvg3qiYhFQIccCRnw",
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 12,
+2024-12-29 20:49:52:       "championId": 6,
+2024-12-29 20:49:52:       "profileIconId": 6058,
+2024-12-29 20:49:52:       "riotId": "Just Survive SH#TR1",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "sOBxuK5GHT7H-TSvBOe9F8Ry34ESR2TGS2xwkzCpMlclxA",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8010,
+2024-12-29 20:49:52:           9111,
+2024-12-29 20:49:52:           9105,
+2024-12-29 20:49:52:           8299,
+2024-12-29 20:49:52:           8473,
+2024-12-29 20:49:52:           8451,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8000,
+2024-12-29 20:49:52:         "perkSubStyle": 8400
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg",
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "spell1Id": 14,
+2024-12-29 20:49:52:       "spell2Id": 4,
+2024-12-29 20:49:52:       "championId": 711,
+2024-12-29 20:49:52:       "profileIconId": 6760,
+2024-12-29 20:49:52:       "riotId": "catra#001",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8112,
+2024-12-29 20:49:52:           8126,
+2024-12-29 20:49:52:           8138,
+2024-12-29 20:49:52:           8106,
+2024-12-29 20:49:52:           8210,
+2024-12-29 20:49:52:           8237,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5013
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8100,
+2024-12-29 20:49:52:         "perkSubStyle": 8200
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "mci9H3zu9nLQA28fojTgGFvRY9QtKnbEvLCHojBnS4KKrpn1_OCWzZD8_IAo_aLrVhbCXrMmxZ_F7A",
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 21,
+2024-12-29 20:49:52:       "championId": 51,
+2024-12-29 20:49:52:       "profileIconId": 6680,
+2024-12-29 20:49:52:       "riotId": "BACIHOPLATAN46#AUTR",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8005,
+2024-12-29 20:49:52:           8009,
+2024-12-29 20:49:52:           9103,
+2024-12-29 20:49:52:           8014,
+2024-12-29 20:49:52:           8233,
+2024-12-29 20:49:52:           8236,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8000,
+2024-12-29 20:49:52:         "perkSubStyle": 8200
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "0EWDbYbp3d1gtmqF6P0qA-EOeMQaR3gtSpvg9Mj1_8GTChL7vVttju1Ki6G3uUOkWmQgZN7uj4IZ_Q",
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "spell1Id": 4,
+2024-12-29 20:49:52:       "spell2Id": 11,
+2024-12-29 20:49:52:       "championId": 19,
+2024-12-29 20:49:52:       "profileIconId": 6760,
+2024-12-29 20:49:52:       "riotId": "αkαlí#aka",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "VI8FUjJHqqTESI0K2cNbDuBUXeaL6Ls7lL9x9xECZJUgJlkeaNLlwi6KiA",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8005,
+2024-12-29 20:49:52:           9111,
+2024-12-29 20:49:52:           9104,
+2024-12-29 20:49:52:           8299,
+2024-12-29 20:49:52:           8138,
+2024-12-29 20:49:52:           8105,
+2024-12-29 20:49:52:           5005,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8000,
+2024-12-29 20:49:52:         "perkSubStyle": 8100
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "puuid": "R_dV2_65AIKsgsd6iYikNGWb0bPRpt6GoBjRzbQS3Mfbw6IIPQN4ktocIwvHKzd8ybxA2IaJZ3f7YQ",
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "spell1Id": 3,
+2024-12-29 20:49:52:       "spell2Id": 4,
+2024-12-29 20:49:52:       "championId": 267,
+2024-12-29 20:49:52:       "profileIconId": 3840,
+2024-12-29 20:49:52:       "riotId": "iyiki varsın cnm#sweet",
+2024-12-29 20:49:52:       "bot": false,
+2024-12-29 20:49:52:       "summonerId": "gEH4LQ1cEWNeIiZxOyhb25NvYNAShVbBghrjnqGhLGm7xzY",
+2024-12-29 20:49:52:       "gameCustomizationObjects": [],
+2024-12-29 20:49:52:       "perks": {
+2024-12-29 20:49:52:         "perkIds": [
+2024-12-29 20:49:52:           8214,
+2024-12-29 20:49:52:           8226,
+2024-12-29 20:49:52:           8210,
+2024-12-29 20:49:52:           8237,
+2024-12-29 20:49:52:           8473,
+2024-12-29 20:49:52:           8453,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5008,
+2024-12-29 20:49:52:           5001
+2024-12-29 20:49:52:         ],
+2024-12-29 20:49:52:         "perkStyle": 8200,
+2024-12-29 20:49:52:         "perkSubStyle": 8400
+2024-12-29 20:49:52:       }
+2024-12-29 20:49:52:     }
+2024-12-29 20:49:52:   ],
+2024-12-29 20:49:52:   "observers": {
+2024-12-29 20:49:52:     "encryptionKey": "c8dEUhFjNTiu8vzthXZpb367rfExHfmy"
+2024-12-29 20:49:52:   },
+2024-12-29 20:49:52:   "platformId": "TR1",
+2024-12-29 20:49:52:   "bannedChampions": [
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 236,
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "pickTurn": 1
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 25,
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "pickTurn": 2
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 360,
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "pickTurn": 3
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 50,
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "pickTurn": 4
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 114,
+2024-12-29 20:49:52:       "teamId": 100,
+2024-12-29 20:49:52:       "pickTurn": 5
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 83,
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "pickTurn": 6
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 238,
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "pickTurn": 7
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 112,
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "pickTurn": 8
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 157,
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "pickTurn": 9
+2024-12-29 20:49:52:     },
+2024-12-29 20:49:52:     {
+2024-12-29 20:49:52:       "championId": 53,
+2024-12-29 20:49:52:       "teamId": 200,
+2024-12-29 20:49:52:       "pickTurn": 10
+2024-12-29 20:49:52:     }
+2024-12-29 20:49:52:   ],
+2024-12-29 20:49:52:   "gameStartTime": 1735501748051,
+2024-12-29 20:49:52:   "gameLength": -106
+2024-12-29 20:49:52: }
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: umqI-_piC-YXiFNR0JEBs_kROqoYaANtaG_iJoy7sMaIOBg
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: mnewKkDId2nlTJQ3RgllUPu7GA2ZyKgzSsmInZL-pTP4qQ
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: CUyS4wTzk0BLQjlFhtaRoQcQbLt5lPkBtGgEnqWP4natOA
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: 3VnFArk9JepMfs4jAQu3SWRnDvvlBGfahf9mDP6vLV3sXbs
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: 3ABEk_y6roZoq-pJE1LFrD78nw0KrAO1-hj3qHug5N9BmQ
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: sOBxuK5GHT7H-TSvBOe9F8Ry34ESR2TGS2xwkzCpMlclxA
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw
+2024-12-29 20:49:52: [Riot API] Sıralama bilgisi alınıyor: PpOCQD45ybT5XfP35CEuFuJPIkMIsyvJQProG4y87tpMSPo-fRI98B6nSg
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alınıyor: VI8FUjJHqqTESI0K2cNbDuBUXeaL6Ls7lL9x9xECZJUgJlkeaNLlwi6KiA
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alınıyor: gEH4LQ1cEWNeIiZxOyhb25NvYNAShVbBghrjnqGhLGm7xzY
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 20:49:53: [Riot API] Sıralama bilgisi alındı: 2 kayıt
+2024-12-29 21:39:39: [Riot API] Sihirdar aranıyor: catra#001
+2024-12-29 21:39:39: [Riot API] PUUID bulundu: V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg
+2024-12-29 21:39:40: Summoner Response Data: {
+2024-12-29 21:39:40:   "id": "GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw",
+2024-12-29 21:39:40:   "accountId": "v9LglZh6XJ82wHdCkiKc6AaD1UA-Wfj9WvvjqU4k2l60Bv-BgWk9Ee0M",
+2024-12-29 21:39:40:   "puuid": "V_XuYQf3Y9Iw8YZZHyDU27dzp_udCFh9uEcXJ7ziV2EoebkfVSME65hxQc_olRxcKnvcVCULPiVuvg",
+2024-12-29 21:39:40:   "profileIconId": 6760,
+2024-12-29 21:39:40:   "revisionDate": 1735503788700,
+2024-12-29 21:39:40:   "summonerLevel": 124
+2024-12-29 21:39:40: }
+2024-12-29 21:39:40: [Riot API] Sihirdar bulundu: catra
+2024-12-29 21:39:40: [Riot API] Sıralama bilgisi alınıyor: GCu7kVQ0Wf_y7261QMksIY_SmvQ8v9VGeQ9CY8zZYmiyKms5joul-aZPIw
+2024-12-29 21:39:40: [Riot API] Sıralama bilgisi alındı: 2 kayıt
